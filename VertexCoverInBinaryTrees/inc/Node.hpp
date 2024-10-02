@@ -1,3 +1,7 @@
+#ifndef NODE_HPP
+#define NODE_HPP
+
+
 #include <iostream>
 #include <vector>
 #include <random>
@@ -13,3 +17,4 @@ struct Node {
                                                     vertexCount(vertexCount) {}
 };
 
+#endif
