@@ -10,7 +10,13 @@ This algorithm tackles the NP-complete vertex cover problem within the context o
 
 ## Usage
 
-To compile and execute the code, use the following command in your terminal:
+To compile this program, use the following command in your terminal:
 
 ```bash
-g++ *.cpp -o main -std=c++17 && ./main
+make
+```
+
+To clean dependecies use the following command in your terminal:
+```bash
+make clean
+``' 
