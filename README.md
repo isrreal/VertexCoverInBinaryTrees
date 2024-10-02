@@ -19,4 +19,4 @@ make
 To clean dependecies use the following command in your terminal:
 ```bash
 make clean
-``' 
+```
